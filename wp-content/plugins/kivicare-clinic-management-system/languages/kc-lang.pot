@@ -2087,7 +2087,7 @@ msgid "NA"
 msgstr ""
 
 #: app/controllers/KCElementorController.php:182
-msgid "Morning : "
+msgid "First : "
 msgstr ""
 
 #: app/controllers/KCElementorController.php:190
@@ -2095,7 +2095,7 @@ msgid "Evening : "
 msgstr ""
 
 #: app/controllers/KCElementorController.php:202
-msgid "Morning : NA "
+msgid "Second : NA "
 msgstr ""
 
 #: app/controllers/KCElementorController.php:203
@@ -6660,7 +6660,7 @@ msgid "Selected days already exist in the other session"
 msgstr ""
 
 #: resources/assets/lang/temp.php:1086
-msgid "Morning session"
+msgid "First session"
 msgstr ""
 
 #: resources/assets/lang/temp.php:1087
@@ -6680,7 +6680,7 @@ msgid "End time must be bigger than start time"
 msgstr ""
 
 #: resources/assets/lang/temp.php:1091
-msgid "Evening session"
+msgid "Second session"
 msgstr ""
 
 #: resources/assets/lang/temp.php:1092
@@ -6709,11 +6709,11 @@ msgid "Days"
 msgstr ""
 
 #: resources/assets/lang/temp.php:1104
-msgid "Morning Session"
+msgid "First Session"
 msgstr ""
 
 #: resources/assets/lang/temp.php:1105
-msgid "Evening Session"
+msgid "Second Session"
 msgstr ""
 
 #: resources/assets/lang/temp.php:1107
@@ -8094,11 +8094,11 @@ msgid "Send test Whatsapp"
 msgstr ""
 
 #: resources/assets/lang/temp.php:1604
-msgid "Morning"
+msgid "First"
 msgstr ""
 
 #: resources/assets/lang/temp.php:1605
-msgid "Evening"
+msgid "Second"
 msgstr ""
 
 #: resources/assets/lang/temp.php:1607
