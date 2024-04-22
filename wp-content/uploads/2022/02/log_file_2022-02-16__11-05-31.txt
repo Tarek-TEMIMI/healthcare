@@ -1,0 +1,132 @@
+
+---Downloaded files---
+The import files for: All Content were successfully downloaded!
+Initial max execution time = 3000
+Files info:
+Site URL = http://192.168.1.230/wp_themes/latest/kivicare
+Data file = /var/www/html/wp_themes/latest/kivicare/wp-content/themes/kivicare/inc/demo/master-demo/kivicare-content.xml
+Widget file = /var/www/html/wp_themes/latest/kivicare/wp-content/themes/kivicare/inc/demo/master-demo/kivicare-widget.wie
+Customizer file = /var/www/html/wp_themes/latest/kivicare/wp-content/themes/kivicare/inc/demo/master-demo/kivicare-export.dat
+Redux files:
+kivi_options -> /var/www/html/wp_themes/latest/kivicare/wp-content/themes/kivicare/inc/demo/master-demo/kivicare_redux.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "image_picker6678714323483833439" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "image_picker6678714323483833439" (Media)
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Search - No Title - Imported
+Iqonic Recent Post - No Title - Imported
+Archives - No Title - Imported
+Categories - No Title - Imported
+Meta - No Title - Imported
+
+Page Sidebar : 
+
+Iqonic Departments Menu - Specialization - Imported
+
+Footer Area 1 : 
+
+Iqonic Footer Logo - No Title - Imported
+Text - No Title - Imported
+Iqonic Subscribe - No Title - Imported
+
+Footer Area 2 : 
+
+Navigation Menu - Useful Links - Imported
+
+Footer Area 3 : 
+
+Iqonic Working Days - Working Day - Imported
+
+Footer Area 4 : 
+
+Iqonic Contact - Reach Us - Imported
+Iqonic Social Media - No Title - Imported
+
+Side Area : 
+
+Text - No Title - Imported
+Image - No Title - Imported
+Iqonic Contact - Contact Info - Imported
+Iqonic Social Media - No Title - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: kivi_options finished successfully!
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+

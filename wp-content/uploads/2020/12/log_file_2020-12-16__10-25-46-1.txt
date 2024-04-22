@@ -1,0 +1,69 @@
+
+---Downloaded files---
+The import files for: All Content were successfully downloaded!
+Initial max execution time = 3000
+Files info:
+Site URL = https://iqonic.design/wp-themes/kivicare
+Data file = /var/www/html/wp-themes/kivicare/wp-content/themes/kivicare/inc/demo/master-demo/kivicare-content.xml
+Widget file = /var/www/html/wp-themes/kivicare/wp-content/themes/kivicare/inc/demo/master-demo/kivicare-widget.wie
+Customizer file = /var/www/html/wp-themes/kivicare/wp-content/themes/kivicare/inc/demo/master-demo/kivicare-export.dat
+Redux files:
+kivi_options -> /var/www/html/wp-themes/kivicare/wp-content/themes/kivicare/inc/demo/master-demo/kivicare_redux.json 
+
+
+---Importing widgets---
+iq_side_area : Sidebar does not exist in theme (moving widget to Inactive)
+
+Text - No Title - Imported to Inactive
+Image - No Title - Imported to Inactive
+Iqonic Contact - Contact Info - Imported to Inactive
+Iqonic Social Media - No Title - Imported to Inactive
+
+Blog Sidebar : 
+
+Search - No Title - Widget already exists
+Iqonic Recent Post - No Title - Widget already exists
+Archives - No Title - Widget already exists
+Categories - No Title - Widget already exists
+Meta - No Title - Widget already exists
+
+Page Sidebar : 
+
+Iqonic Departments Menu - Specialization - Widget already exists
+
+Footer Area 1 : 
+
+iqonic Footer Logo - No Title - Widget already exists
+Text - No Title - Widget already exists
+Iqonic Subscribe - No Title - Widget already exists
+
+Footer Area 2 : 
+
+Navigation Menu - Useful Links - Widget already exists
+
+Footer Area 3 : 
+
+Iqonic Working Days - Working Day - Widget already exists
+
+Footer Area 4 : 
+
+Iqonic Contact - Reach Us - Widget already exists
+Iqonic Social Media - No Title - Widget already exists
+
+Side Area : 
+
+Text - No Title - Widget already exists
+Image - No Title - Widget already exists
+Iqonic Contact - Contact Info - Widget already exists
+Iqonic Social Media - No Title - Widget already exists
+
+
+
+---Importing Redux settings---
+Redux settings import for: kivi_options finished successfully!
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+

@@ -1,0 +1,26 @@
+{
+    "name": "kivicare/googlemeet",
+    "description": "kivicare googlemeet addon",
+    "type": "project",
+    "license": "MIT",
+    "require": {
+        "google/apiclient": "^2.12.1"
+    },
+    "scripts": {
+        "pre-autoload-dump": "Google\\Task\\Composer::cleanup"
+    },
+    "extra": {
+        "google/apiclient-services": [
+            "Calendar"
+        ]
+    },
+    "autoload": {
+        "psr-4": {
+            "kcGoogleMeet\\": "./kcGoogleMeet",
+            "App\\": "../kivicare-clinic-management-system/app"
+        },
+        "files": [
+            "utils/kcgm_helpers.php"
+        ]
+    }
+}

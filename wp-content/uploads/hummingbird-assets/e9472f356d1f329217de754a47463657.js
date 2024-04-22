@@ -1,0 +1,2 @@
+/**handles:twenty-twenty-one-responsive-embeds-script**/
+function twentytwentyoneResponsiveEmbeds(){var t,n;document.querySelectorAll("iframe").forEach(function(e){e.width&&e.height&&(t=parseFloat(e.width)/parseFloat(e.height),n=parseFloat(window.getComputedStyle(e.parentElement,null).width.replace("px","")),e.style.maxWidth="100%",e.style.maxHeight=Math.round(n/t).toString()+"px")})}twentytwentyoneResponsiveEmbeds(),window.onresize=twentytwentyoneResponsiveEmbeds;

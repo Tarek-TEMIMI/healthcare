@@ -1,0 +1,112 @@
+# Copyright (C) 2022 iqonic
+# This file is distributed under the same license as the KiviCare - Google Meet Telemed AddOn plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: KiviCare - Google Meet Telemed AddOn 1.0.6\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/kivicare-google-meet\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-12-16T14:27:13+05:30\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: kc-googlemeet\n"
+
+#. Plugin Name of the plugin
+msgid "KiviCare - Google Meet Telemed AddOn"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://iqonic.design"
+msgstr ""
+
+#. Description of the plugin
+msgid "KiviCare - Google Meet is an impressive AddOn of Kivicare clinic and patient management plugin (EHR)."
+msgstr ""
+
+#. Author of the plugin
+msgid "iqonic"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://iqonic.design/"
+msgstr ""
+
+#: kcGoogleMeet/baseClasses/KCGMBase.php:47
+#: kcGoogleMeet/baseClasses/KCGMBase.php:53
+msgid "Warning:"
+msgstr ""
+
+#: kcGoogleMeet/baseClasses/KCGMBase.php:47
+msgid "Requires Plugin Version : "
+msgstr ""
+
+#: kcGoogleMeet/baseClasses/KCGMBase.php:47
+msgid "KiviCare - Clinic & Patient Management System (EHR) V"
+msgstr ""
+
+#: kcGoogleMeet/baseClasses/KCGMBase.php:47
+msgid "your current plugin version is "
+msgstr ""
+
+#: kcGoogleMeet/baseClasses/KCGMBase.php:53
+msgid "Requires "
+msgstr ""
+
+#: kcGoogleMeet/baseClasses/KCGMBase.php:53
+msgid "KiviCare - Clinic & Patient Management System (EHR)"
+msgstr ""
+
+#: kcGoogleMeet/baseClasses/KCGMBase.php:59
+msgid "Warning: KiviCare - Google Meet"
+msgstr ""
+
+#: kcGoogleMeet/baseClasses/KCGMBase.php:59
+msgid " is deactivate Because kivicare-clinic-management-system is not active"
+msgstr ""
+
+#: kcGoogleMeet/baseClasses/KCGMBase.php:59
+msgid "Note:kivicare-clinic-management-system plugin is active still receiving this message then Make sure that kivicare-clinic-management-system plugin folder is same as \" kivicare-clinic-management-system\" in wp-content/plugins."
+msgstr ""
+
+#: kcGoogleMeet/baseClasses/KCGMGoogleMeetFilters.php:44
+msgid "Google setting saved successfully"
+msgstr ""
+
+#: kcGoogleMeet/baseClasses/KCGMGoogleMeetFilters.php:50
+msgid "Google setting not saved"
+msgstr ""
+
+#: kcGoogleMeet/baseClasses/KCGMGoogleMeetFilters.php:116
+msgid "Google Meet Connected"
+msgstr ""
+
+#: kcGoogleMeet/baseClasses/KCGMGoogleMeetFilters.php:151
+msgid "Google Meet Disconnected"
+msgstr ""
+
+#: kcGoogleMeet/baseClasses/KCGMGoogleMeetFilters.php:156
+msgid "Google Meet Not Disconnected"
+msgstr ""
+
+#: kcGoogleMeet/baseClasses/KCGMGoogleMeetFilters.php:193
+msgid "template post not exists"
+msgstr ""
+
+#: kcGoogleMeet/baseClasses/KCGMGoogleMeetFilters.php:263
+msgid "Google Meet Updated"
+msgstr ""
+
+#: kcGoogleMeet/baseClasses/KCGMGoogleMeetFilters.php:283
+msgid "Google Meet Created"
+msgstr ""
+
+#: kcGoogleMeet/baseClasses/KCGMGoogleMeetFilters.php:303
+msgid "Failed To create event"
+msgstr ""
+
+#: kcGoogleMeet/baseClasses/KCGMGoogleMeetFilters.php:336
+msgid "GoogleMeet template  saved successfully."
+msgstr ""
